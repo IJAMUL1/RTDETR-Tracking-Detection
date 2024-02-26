@@ -36,3 +36,5 @@ video_path = r'path/to/your/video.mp4'
 detector = Detection_Transformer(capture_index=0)
 detector(video_path)
 ```
+## Acknowledgement
+- Ultralytics (https://docs.ultralytics.com/models/rtdetr/)
