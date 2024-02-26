@@ -1,4 +1,4 @@
-# Object-Tracking-Detection-Transformers-RT-DETR-
+# RTDEETR-Tracking-Detection
 
 RTDETR ingeniously adapts Vision Transformers (ViT), famous for their success in image classification, into the domain of real-time object detection. This marks a shift from traditional anchor-based object detectors (like YOLO).This project utilizes the RTDETR model for real-time object detection and tracking in videos. It involves utilizing a pre-trained rtdetr model trained on the coco dataset.  
 
