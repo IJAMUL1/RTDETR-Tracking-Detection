@@ -38,11 +38,4 @@ Run the Object_Tracking_RTDETR.py script, providing the path to the video file a
 video_path = r'path/to/your/video.mp4'
 detector = Detection_Transformer(capture_index=0)
 detector(video_path)
-
-
-
-
-
-
-
-
+```
