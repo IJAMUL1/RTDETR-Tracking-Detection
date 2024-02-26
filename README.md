@@ -2,6 +2,9 @@
 
 RTDETR Object Detection is a project that utilizes the RTDETR model for real-time object detection in videos.
 
+![Untitled video - Made with Clipchamp (2)](https://github.com/IJAMUL1/RANSAC-Point-Cloud-Plane-Fitting/assets/60096099/3a881f53-ec95-4bf9-b40f-d66a0e579557)
+
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Installation](#installation)
