@@ -2,8 +2,9 @@
 
 RTDETR ingeniously adapts Vision Transformers (ViT), famous for their success in image classification, into the domain of real-time object detection. This marks a shift from traditional anchor-based object detectors (like YOLO).This project utilizes the RTDETR model for real-time object detection and tracking in videos. It involves utilizing a pre-trained rtdetr model trained on the coco dataset.  
 
-![Untitled video - Made with Clipchamp (2)](https://github.com/IJAMUL1/RANSAC-Point-Cloud-Plane-Fitting/assets/60096099/3a881f53-ec95-4bf9-b40f-d66a0e579557)
-
+<p align="center">
+  <img src="https://github.com/IJAMUL1/RANSAC-Point-Cloud-Plane-Fitting/assets/60096099/3a881f53-ec95-4bf9-b40f-d66a0e579557" alt="Your Image Description" width="400">
+</p>
 
 ## Table of Contents
 - [Introduction](#introduction)
