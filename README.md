@@ -7,6 +7,7 @@ RTDETR ingeniously adapts Vision Transformers (ViT), famous for their success in
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Requirements](#Requirements)
 - [Installation , Usage & Example](#installation)
 
 ## Introduction
