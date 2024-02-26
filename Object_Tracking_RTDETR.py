@@ -29,7 +29,7 @@ class Detection_Transformer:
         self.CLASS_NAMES_DICT = dict(zip(coco_class_ids, coco_class_names))
 
         # Reduce the thickness of bounding boxes
-        self.box_annotator = sv.BoxAnnotator(sv.ColorPalette.default(), thickness=1, text_thickness=1, text_scale=0.5,text_padding =1)
+        self.box_annotator = sv.BoxAnnotator(sv.ColorPalette.default(), thickness=2, text_thickness=1, text_scale=0.5,text_padding =1)
 
     def plot_bboxes(self, results, frame):
         
@@ -64,7 +64,7 @@ class Detection_Transformer:
         filtered_class_id = []
 
         for xyxy, confidence, class_id in zip(detections.xyxy, detections.confidence, detections.class_id):
-            if class_id in [0,1,2,3,5,7,11]:
+            if class_id in [1,2,3,5,7,11]:
                 filtered_xyxy.append(xyxy)
                 filtered_confidence.append(confidence)
                 filtered_class_id.append(class_id)
